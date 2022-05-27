@@ -1,0 +1,149 @@
+
+*{
+    margin: 0;
+}
+
+body{
+    background-color:black;
+    color:yellow ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:0;
+    text-align: left;
+    text-align: justify;
+    
+ 
+}
+
+
+#Cabecalho{
+	
+	background-image: url("../img/banner-1504653_1920.png");
+    border-image-width: 100%;
+	color:greenyellow;
+	text-align: center;
+	padding: 2em 1em;
+    
+}
+
+#Cabecalho h1{
+    font-size: 3em;
+    margin-top: 0.5;
+
+}
+#links{
+    background-color:black;
+}
+#Menu{
+    text-align: center;
+    padding: 0,1em;
+    text-decoration:none;
+    color: green;
+    font-weight: bold;
+    font-size:1.4em;
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+li{
+    display:inline-block;
+    margin: 20px;
+    
+}
+a{
+    color: green;
+    font-size: 24px;
+    text-transform: uppercase;
+    padding: 8px 16px;
+    text-decoration: none;
+    
+}
+a:hover{
+    color:red;
+    transition: 0,3s all ;
+}
+
+
+#Quem-sou{
+    display: contents;
+    text-align:center;
+    text-align: justify;
+    font-style: initial;
+}
+    
+    
+#Quem-sou .content{
+    padding: 3em;
+    color: rgb(59, 26, 26);
+    background-color: darkturquoise;
+    
+
+}
+
+#Soft-skills{
+    display: contents;
+    text-align:center;
+    text-align: justify;
+    font-style: initial;
+    
+}
+
+
+
+#Soft-skills .content{
+  padding: 1em;
+  color: black;
+  background-color: darkturquoise;
+  
+  
+}
+
+#Cursos{
+    display: contents;
+    text-align:center;
+    text-align: justify;
+    font-style: initial;
+    
+    
+}
+#Cursos .content{
+
+    padding: 1em;
+    background-color: darkturquoise;
+    color: black;
+    
+}
+
+#Contato{
+    display:contents;
+    text-align:center;
+	text-align:justify;
+	margin: auto;
+	margin-top: 3em;
+	max-width: 1024px;
+    
+    
+}
+
+#Contato .content{
+    padding: 1em;
+    background-color: #0396FF;
+    color: rgb(34, 5, 5);
+}
+
+
+#Rodape{
+    display: contents;
+    text-align: center;
+    text-align: justify;
+    text-shadow: none;
+}
+   
+#Rodape .content{
+    padding: 1em;
+    background-color: rgb(39, 6, 6);
+    color: chartreuse;
+    margin: 0.1em;
+    border-radius: 0.3em;
+}
+
